@@ -2,4 +2,4 @@
 
 mon cv en html et css !
 
-https://botom51.github.io/mon_CV/
+<div>https://botom51.github.io/mon_CV/</div>
