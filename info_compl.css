@@ -2,6 +2,7 @@
 .conteneur {
    position: relative;
    width: 125px;
+   display: flex;
 }
 .conteneur-flotant0,
 .conteneur-flotant1,
@@ -121,4 +122,7 @@
    color: white;
    font-weight: bolder;
    text-shadow: black 0px 0px 5px;
+}
+img {
+   width: 100%;
 }
